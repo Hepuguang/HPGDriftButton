@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
  
   s.name         = "HPGDriftButton"
-  s.version      = "0.0.2"
+  s.version      = "1.1"
   s.summary      = "一个可以拖动的按钮"
 
   s.description  = <<-DESC
