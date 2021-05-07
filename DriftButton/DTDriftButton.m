@@ -35,6 +35,7 @@
 {
     self = [super initWithFrame:frame];
     if (self) {
+        //新增了一句注释啊
         if (CGSizeEqualToSize(frame.size, CGSizeZero)) {
             self.frame = CGRectMake(0, 0, 50, 50);
         }

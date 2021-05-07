@@ -86,9 +86,9 @@
 		9734111B2645203400D4E184 /* DriftButton */ = {
 			isa = PBXGroup;
 			children = (
+				9734111E2645203400D4E184 /* DTDriftButton.h */,
 				9734111C2645203400D4E184 /* DTDriftButton.m */,
 				9734111D2645203400D4E184 /* ZDEncodeDecodeTools.h */,
-				9734111E2645203400D4E184 /* DTDriftButton.h */,
 				9734111F2645203400D4E184 /* ZDEncodeDecodeTools.m */,
 			);
 			name = DriftButton;
